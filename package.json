@@ -1,0 +1,22 @@
+{
+  "name": "qa-dojo-pw-course-project-hard",
+  "version": "1.0.0",
+  "description": "Playwright + Typescript course project. Difficulty: hard",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yosiptsov/qa-dojo-pw-course-project-hard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yosiptsov/qa-dojo-pw-course-project-hard/issues"
+  },
+  "homepage": "https://github.com/yosiptsov/qa-dojo-pw-course-project-hard#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.54.1",
+    "@types/node": "^24.0.14"
+  }
+}
